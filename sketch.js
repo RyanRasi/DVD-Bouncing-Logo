@@ -16,8 +16,8 @@ function setup() {
   createCanvas(windowWidth, windowHeight); //sets width to screen size
   x = random(width); //Random start point
   y = random(height);
-  xspeed = 5; //Initialises speed of 5
-  yspeed = 5;
+  xspeed = 2.5; //Initialises speed of 2.5
+  yspeed = 2.5;
   pickColour();
 }
 
